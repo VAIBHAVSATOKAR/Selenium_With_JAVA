@@ -1,0 +1,14 @@
+  
+  Dynamic content
+    To meke dynamic content static append  " ?with_content=static " to the URL .
+  
+  Shifting Content
+     This example demonstrates a element shifting a few pixels in either direction on each page load.
+
+     1. To load it randomly, append " ?mode=random " to the URL. 
+
+     2. To specify a differant numbor of pixels to shift the example, append " ?pixel_shift=100 " to the URL. 
+
+     3. To do both together, use " ?mode=random&pixel_shift=100 " to the URL.
+     
+   
